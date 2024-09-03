@@ -1,0 +1,7 @@
+paypal:
+ client-id: AZD-ZwgimF3quBeeT0aagK0qpbcUQnIGWqKj2GrhfQRv0Ji3dT1LEV-QYp5d3_WAXZn7VRpsDEUlYjhW
+ client-secret: EG0Fo_qMcTKIFSockiYSQQjEzgdsVZXnpCSLcS0LSq1cJ-lYZyIaMpeUqNiBHRDy4A5aZGXTcDOiOpBB
+ mode: sandbox
+ 
+server:
+  port: 8083
